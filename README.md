@@ -16,19 +16,14 @@
 🛠️ Passionate about turning ideas into reality <br />
 🤝 Open to collaborations, innovation, and new opportunities <br />
            <br />
-            <a href="mailto:chetanrangari0e52@gmail.com" target="_blank"><img style="margin-right: 5px;"
+            <a href="mailto:nsuyash67@gmail.com" target="_blank"><img style="margin-right: 5px;"
                     src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
                     alt="Gmail" /></a>
-            <a href="https://www.linkedin.com/in/chetan-rangari-97342832b" target="_blank"><img
+            <a href="https://www.linkedin.com/in/suyash-nikam/" target="_blank"><img
                     style="margin-right: 5px;"
                     src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
                     alt="LinkedIn" /></a>
-            <a href="https://twitter.com/chetan0e" target="_blank"><img style="margin-right: 5px;"
-                    src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"
-                    alt="Twitter" /></a>
-            <a href="https://chetan0e.space" target="_blank"><img style="margin-right: 5px;"
-                    src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"
-                    alt="Portfolio" /></a>
+           </a>
         </div>
         <br clear="all" />
     </div>
