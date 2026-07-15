@@ -41,18 +41,18 @@
             <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
                 <h3 style="color: #ffffff; margin: 0;">📊 Statistics</h3>
                 <br />
-                <b style="color: #c9d1d9;">Chetan0e's GitHub Stats</b>
+                <b style="color: #c9d1d9;">Sitekiller's GitHub Stats</b>
             </td>
         </tr>
         <tr>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
                <img height="185"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chetan0e&layout=compact&theme=dark"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sitekiller&layout=compact&theme=dark"
   alt="Langs" />
             </td>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
               <img height="185"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=chetan0e&show_icons=true&theme=dark"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sitekiller&show_icons=true&theme=dark"
   alt="Stats" />
             </td>
         </tr>
@@ -61,7 +61,7 @@
                 <h3 style="color: #ffffff; margin: 0;">🔥 Contribution Streak</h3>
                 <br />
                 <img height="185"
-  src="https://github-readme-streak-stats.herokuapp.com?user=chetan0e&theme=dark"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Sitekiller&theme=dark"
   alt="Streak" />
             </td>
         </tr>
@@ -70,7 +70,7 @@
                 <h3 style="color: #ffffff; margin: 0;">📈 Contribution Graph</h3>
                 <br />
                <img width="850"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=chetan0e&theme=github-dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sitekiller&theme=github-dark"
   alt="Activity Graph" />
             </td>
         </tr>
@@ -82,7 +82,7 @@
         <h3 style="color: #39D353; font-family: monospace;">🧊 3D Contribution Engine</h3>
         <br />
         <img width="850"
-            src="https://raw.githubusercontent.com/chetan0e/chetan0e/main/profile-3d-contrib/profile-night-green.svg"
+            src="https://raw.githubusercontent.com/Sitekiller/Sitekiller/main/profile-3d-contrib/profile-night-green.svg"
             alt="3D Contributions" />
     </div>
     <hr style="border: 1px solid #30363d; border-bottom: none;" />
@@ -91,7 +91,7 @@
 <div align="center">
     <h3 style="color: #39D353; font-family: monospace;">🐍 Contribution Snake</h3>
     <br />
-    <img src="https://raw.githubusercontent.com/chetan0e/chetan0e/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Sitekiller/Sitekiller/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br /><br />
