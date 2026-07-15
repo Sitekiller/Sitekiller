@@ -10,11 +10,11 @@
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhnNzNkMTdmZmthOGFpYzM3a3lyaHA5M252aTYzeHVheTJ1czEwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"
             width="350" alt="Developer Setup" />
         <div align="left" style="line-height: 1.8; font-size: 16px;">
-            🔥 Driven to become better than yesterday, every single day <br />
-            👨‍💻 Engineering scalable and impactful solutions <br />
-            🧠 Advancing in Full Stack, Mobile, and AI engineering <br />
-            🛠️ Enjoy working on a variety of projects <br />
-            🤝 Open to meaningful collaborations and innovation <br />
+         🔥 Building skills with consistency every day <br />
+👨‍💻 Creating scalable products and practical solutions <br />
+🧠 Learning Full Stack, Mobile, and AI technologies <br />
+🛠️ Passionate about turning ideas into reality <br />
+🤝 Open to collaborations, innovation, and new opportunities <br />
             <br />
             <img src="https://komarev.com/ghpvc/?username=chetan0e&label=SYSTEM+VISITS&color=39D353&style=for-the-badge&labelColor=0d1117"
                 alt="Visitor Count" />
