@@ -15,10 +15,7 @@
 🧠 Learning Full Stack, Mobile, and AI technologies <br />
 🛠️ Passionate about turning ideas into reality <br />
 🤝 Open to collaborations, innovation, and new opportunities <br />
-            <br />
-            <img src="https://komarev.com/ghpvc/?username=chetan0e&label=SYSTEM+VISITS&color=39D353&style=for-the-badge&labelColor=0d1117"
-                alt="Visitor Count" />
-            <br /><br />
+           <br />
             <a href="mailto:chetanrangari0e52@gmail.com" target="_blank"><img style="margin-right: 5px;"
                     src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
                     alt="Gmail" /></a>
