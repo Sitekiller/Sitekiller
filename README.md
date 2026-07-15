@@ -33,33 +33,6 @@
         <br clear="all" />
     </div>
     <br />
-    <h3 style="color: #ffffff; font-family: monospace;" align="center">💻 Tech Stacks</h3>
-    <br />
-    <div align="center">
-        <img style="margin: 5px;"
-            src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" alt="JS" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"
-            alt="Python" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java"
-            alt="Java" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin"
-            alt="Kotlin" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart"
-            alt="Dart" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c" alt="C" />
-        <br />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter"
-            alt="Flutter" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"
-            alt="Node.js" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase"
-            alt="Firebase" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase"
-            alt="Supabase" />
-        <img style="margin: 5px;" src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"
-            alt="Linux" />
-    </div>
-    <br /><br />
     <hr style="border: 1px solid #30363d; border-bottom: none;" />
     <br />
     <table width="100%"
