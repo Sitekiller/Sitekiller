@@ -7,7 +7,7 @@
     <br />
     <div>
         <img align="right"
-            src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+            src="https://user-images.giphy.com/gifs/bethesda-fallout-76-fallout76-lptIayuGHV9Utu3iTv"
             width="350" alt="Developer Setup" />
         <div align="left" style="line-height: 1.8; font-size: 16px;">
             🔥 Driven to become better than yesterday, every single day <br />
