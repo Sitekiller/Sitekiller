@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&repeat=false&lines=Welcome+to+My+GitHub+Playground!"
         alt="Welcome" />
     <br /><br />
-    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+    <hr style="border: 1px solid #D4AF37d; border-bottom: none;" />
     <br />
     <div>
         <img align="right"
