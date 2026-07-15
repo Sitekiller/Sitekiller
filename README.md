@@ -23,6 +23,11 @@
                     style="margin-right: 5px;"
                     src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
                     alt="LinkedIn" /></a>
+            <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+    <img style="margin-right: 5px;"
+        src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+        alt="LeetCode" />
+</a>
            </a>
         </div>
         <br clear="all" />
